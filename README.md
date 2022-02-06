@@ -6,7 +6,7 @@ and sending alerts about new events to a Discord channel via a Webhook.
 ## Getting started
 
 Install the required dependencies:
-``pip install schedule request``
+``pip install schedule request beautifulsoup4``
 
 Create a file called settings.py in the same folder as the project with the following lines:
 ```
